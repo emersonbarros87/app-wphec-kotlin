@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1025" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/drawable/ic_action_add.xml" value="0.1025" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/drawable/ic_action_editar.xml" value="0.1025" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/drawable/ic_action_refresh.xml" value="0.15" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/drawable/ic_action_remover.xml" value="0.15" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/drawable/ic_action_sair_do_app.xml" value="0.15" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/drawable/placeholder.xml" value="0.1" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/drawable/plano_de_fundo_arredondado.xml" value="0.1" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/font/montserrat.xml" value="0.2296875" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/font/montserrat_bold.xml" value="0.2296875" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/layout/activity_detalhes_produto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/layout/activity_form_sensor.xml" value="0.18" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/layout/activity_formulario_cadastro_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/layout/activity_formulario_produto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/layout/activity_lista_produtos_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/layout/formulario_imagem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/layout/produto_item.xml" value="0.25" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/menu/menu_detalhes_produto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/menu/menu_lista_produtos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.154" />
+        <entry key="..\:/Users/Emerson/Desktop/app-wphec/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.154" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4984375" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
